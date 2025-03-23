@@ -61,5 +61,11 @@ python app.py
 We welcome contributions! Feel free to fork this repository, report issues, or submit pull requests.
 
 ---
-🚀 **Developed for Techxcelerate Hyderabad March Edition, BITS Pilani**
+🚀 **Developed by Team Sentinels of the Space for Techxcelerate Hyderabad March Edition, BITS Pilani**
+
+## Running the Project in VS Code
+After cloning the repository, navigate to the project folder and run:
+```sh
+npm run dev
+```
 
