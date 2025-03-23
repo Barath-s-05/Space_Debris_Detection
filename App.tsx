@@ -16,13 +16,13 @@ const processImage = async (file: File): Promise<DetectionResult> => {
     debris: [
       {
         id: '1',
-        type: 'Satellite',
+        type: 'Debris',
         size: 2.5,
         riskLevel: 'High',
         position: [0, 0, 0],
         velocity: [0.1, 0.1, 0],
         confidence: 0.95,
-        boundingBox: { x: 100, y: 100, width: 200, height: 150 }
+        boundingBox: { x: 50, y: 50, width: 250, height: 170 }
       },
       {
         id: '2',
